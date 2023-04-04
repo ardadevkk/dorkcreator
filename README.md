@@ -1,30 +1,30 @@
 # Dork Creator
-## Kullanım Amacı nedir?
-**Kullanım amacı Google Aramalarında Kullanılabilecek veyahut Pentest Denemelerinde Açıklı site bulmak için kullanılır**
+## Purpose of usage
+**Intended Use It is used to find a site that can be used in Google Searches or Opened in Pentest Experiments.**
 
-![Tool Ekran Görüntüsü](https://cdn.discordapp.com/attachments/1084203203006038039/1092384360000405565/dcpp.png)
+![Tool](https://cdn.discordapp.com/attachments/1084203203006038039/1092384360000405565/dcpp.png)
 
-# Nasıl Kullanacağım?
+# How To Use?
 
-Bilgisayarınıza Klonlayın
+Clone Your pc
 
 ```bash
   git clone https://github.com/knqsec/dorkcreator.git
 ```
 
-Dosyaya Gidin
+go to file
 
 ```bash
   cd dorkcreator-main
 ```
 
-Toolu Çalıştırın
+start tool
 
 
 ```bash
   py knqdorkcr.py
 ```
 
-## Herhangi bir geri bildirim için
+## For your question or anything else
 
-İnstagram @knqsec Hesabına Yazabilirsiniz
+you can write to my instagram account @knqsec
